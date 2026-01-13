@@ -3,15 +3,19 @@ This project segments customers into different groups based on their purchasing 
 Algorithm Used
 K-Means Clustering
 K-Means divides customers into K clusters by minimizing the distance between data points and their respective cluster centroids.
+
+
 requirements.txt
 numpy
 pandas
 matplotlib
 scikit-learn
-Libraries Used
-Library	Purpose
-numpy	Numerical operations
-pandas	Data handling
-matplotlib	Data visualization
-sklearn.cluster	K-Means clustering
-sklearn.preprocessing	Feature scaling
+
+
+| Library                 | Purpose              |
+| ----------------------- | -------------------- |
+| `numpy`                 | Numerical operations |
+| `pandas`                | Data handling        |
+| `matplotlib`            | Data visualization   |
+| `sklearn.cluster`       | K-Means clustering   |
+| `sklearn.preprocessing` | Feature scaling      |
